@@ -1,0 +1,29 @@
+<component name="libraryTable">
+  <library name="Generated files" type="javaScript">
+    <properties>
+      <sourceFilesUrls>
+        <item url="file://$PROJECT_DIR$/dist/webpack.config.js" />
+        <item url="file://$PROJECT_DIR$/dist/dist/js/index.js" />
+        <item url="file://$PROJECT_DIR$/dist/dist/js/login.js" />
+        <item url="file://$PROJECT_DIR$/dist/dist/js/base.js" />
+      </sourceFilesUrls>
+    </properties>
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/dist/dist/dist/js/index.js" />
+      <root url="file://$PROJECT_DIR$/dist/dist/dist/js/index.js" />
+      <root url="file://$PROJECT_DIR$/dist/src/page/index/moudle.js" />
+      <root url="file://$PROJECT_DIR$/dist/src/page/index/index.js" />
+      <root url="file://$PROJECT_DIR$/dist/src/page/common/index.js" />
+      <root url="file://$PROJECT_DIR$/dist/src/page/login/index.js" />
+      <root url="file://$PROJECT_DIR$/dist/src/page/index/index.js" />
+      <root url="file://$PROJECT_DIR$/dist/src/page/index/moudle.js" />
+      <root url="file://$PROJECT_DIR$/dist/src/page/common/index.js" />
+      <root url="file://$PROJECT_DIR$/dist/src/page/login/index.js" />
+      <root url="file://$PROJECT_DIR$/dist/webpack.config.js" />
+      <root url="file://$PROJECT_DIR$/dist/dist/js/index.js" />
+      <root url="file://$PROJECT_DIR$/dist/dist/js/login.js" />
+      <root url="file://$PROJECT_DIR$/dist/dist/js/base.js" />
+    </CLASSES>
+    <SOURCES />
+  </library>
+</component>
